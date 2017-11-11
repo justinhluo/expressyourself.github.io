@@ -1,19 +1,23 @@
 body {
-    /* GIF background */
-    background-color: #CSC1C0;
-    
+    background-image:url('janinehuang.github.io/default-background.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
     
     /*fonts*/
     font-family:"Hero";
     font-size:20px;
 }
 h1 {
+    font-size:30px;
     font-family:"Hero";
 }
 
 textarea {
-    width: 100%;
-    height: 150px;
+    width: 80%;
+    height: 250px;
     padding: 12px 20px;
     box-sizing: border-box;
     border: 2px solid #ccc;
