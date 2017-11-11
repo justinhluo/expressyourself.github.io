@@ -1,8 +1,14 @@
 body {
+    /* GIF background */
     background-image:url('Desktop/giphy.gif');
     background-size:100%;
     background-repeat: repeat-y;
     background-attachment: fixed;
     height:100%;
     width:100%;
+    
+    /*fonts*/
+    font-family:"Hero";
+    font-size:30px;
+    
 }
