@@ -28,9 +28,8 @@ textarea {
     border-radius: 4px;
     resize: none;
     overflow: auto;
-    opacity: 0.25;
     
-    background-color: rgba(248,248,0,248.7);
+    background-color: rgba(248,248,248,0.25);
     
     font-size:15px;
     font-family:"Quicksand";
