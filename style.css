@@ -3,20 +3,21 @@ body {
     /* gif background */
     background-image: url('janinehuang.github.io/default-background.gif');
     background-size: cover;
-    
-    /*fonts*/
-    font-family:"Arial";
-    font-size:20px;
-    color:white;
-    opacity:0.85;
-    
-    
+
     /*scrolling*//
     overflow-y:scroll;
 }
+
+p {
+    font-family:"Quicksand";
+    font-size:20px;
+    color:white;
+    opacity:0.85;
+}
+
 h1 {
     font-size:50px;
-    font-family:"Arial";
+    font-family:"Quicksand";
     color:white;
     opacity: 0.85;
 }
@@ -32,4 +33,8 @@ textarea {
     resize: none;
     overflow: auto;
     opacity: 0.25;
+    
+    font-size:15px;
+    font-family:"Quicksand";
+    color:white;
 }
