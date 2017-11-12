@@ -1,6 +1,7 @@
 body {
+
     /* gif background */
-    background-image: url('janinehuang.github.io/elated.gif');
+    background-image: url('janinehuang.github.io/elatedbackground.gif');
     background-size: cover;
     overflow-y:scroll;
 }
@@ -20,17 +21,23 @@ h1 {
 
 textarea {
     width: 80%;
-    height: 500px;
-    padding: 5px 15px;
+    height: 250px;
+    padding: 20px 20px;
     box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    background-color: #f8f8f8;
+    border: 0px solid #ccc;
+    border-radius: 6px;
     resize: none;
     overflow: auto;
-    opacity: 0.25;
     
-    font-size:15px;
+    background-color: rgba(248,248,248,0.20);
+    
+    font-size:17px;
+    font-weight:bolder;
     font-family:"Quicksand";
-    color:black;
+    color:white;
+}
+
+:focus {
+    outline-color: transparent;
+    outline-style: none;
 }
