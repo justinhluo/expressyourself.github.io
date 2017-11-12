@@ -19,6 +19,11 @@ h1 {
     opacity: 0.85;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 textarea {
     width: 80%;
     height: 500px;
