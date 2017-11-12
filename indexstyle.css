@@ -3,8 +3,6 @@ body {
     /* gif background */
     background-image: url('janinehuang.github.io/default-background.gif');
     background-size: cover;
-
-    /*scrolling*//
     overflow-y:scroll;
 }
 
@@ -32,6 +30,8 @@ textarea {
     resize: none;
     overflow: auto;
     opacity: 0.25;
+    
+    -fx-background-color: rgba(0,0,0,0.7);
     
     font-size:15px;
     font-family:"Quicksand";
