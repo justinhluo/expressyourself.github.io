@@ -5,6 +5,10 @@ body {
     background-size: cover;
     overflow-y:scroll;
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 
 p {
     font-family:"Quicksand";
