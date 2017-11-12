@@ -1,6 +1,6 @@
 body {
     /* gif background */
-    background-image: url('janinehuang.github.io/sad-background.gif');
+    background-image: url('janinehuang.github.io/sadbackground.gif');
     background-size: cover;
     overflow-y:scroll;
 }
@@ -20,7 +20,7 @@ h1 {
 
 textarea {
     width: 80%;
-    height: 250px;
+    height: 500px;
     padding: 5px 15px;
     box-sizing: border-box;
     border: 2px solid #ccc;
