@@ -28,10 +28,16 @@ textarea {
     border-radius: 4px;
     resize: none;
     overflow: auto;
+    opacity: 0.25;
     
     background-color: rgba(248,248,248,0.25);
     
-    font-size:15px;
+    font-size:20px;
     font-family:"Quicksand";
     color:black;
+}
+
+:focus {
+  outline-color: transparent;
+  outline-style: none;
 }
