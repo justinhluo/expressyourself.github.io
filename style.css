@@ -12,7 +12,6 @@ p {
     font-family:"Quicksand";
     font-size:20px;
     color:white;
-    opacity:0.85;
 }
 
 h1 {
@@ -36,5 +35,5 @@ textarea {
     
     font-size:15px;
     font-family:"Quicksand";
-    color:white;
+    color:black;
 }
